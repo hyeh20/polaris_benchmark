@@ -1,0 +1,718 @@
+
+Lmod is automatically replacing "nvhpc/23.9" with "gcc-native/12.3".
+
+
+Lmod is automatically replacing "PrgEnv-nvhpc/8.5.0" with "PrgEnv-gnu/8.5.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cray-mpich/8.1.28
+
+Connected to tcp://x3207c0s1b0n0.hsn.cm.polaris.alcf.anl.gov:7919
+Found executable /home/hughy/miniconda3/envs/TextDiffEDP/bin/python
+Launching application 6b72b387-7b1a-4dbd-8fd0-2c2bd82dda65
+Using PMI port 51215,51216
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+[rank: 12] Seed set to 42
+[rank: 13] Seed set to 42
+[rank: 14] Seed set to 42
+[rank: 15] Seed set to 42
+[rank: 4] Seed set to 42
+[rank: 6] Seed set to 42
+[rank: 7] Seed set to 42
+[rank: 5] Seed set to 42
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/dask/dataframe/__init__.py:31: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+[rank: 1] Seed set to 42
+[rank: 3] Seed set to 42
+[rank: 2] Seed set to 42
+[rank: 0] Seed set to 42
+[rank: 9] Seed set to 42
+[rank: 11] Seed set to 42
+[rank: 10] Seed set to 42
+[rank: 8] Seed set to 42
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /lus/grand/projects/gpu_hack/TextDiff/models/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext were not used when initializing BertForMaskedLM: ['bert.pooler.dense.bias', 'bert.pooler.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+Using 16bit Automatic Mixed Precision (AMP)
+Using 16bit Automatic Mixed Precision (AMP)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+Using 16bit Automatic Mixed Precision (AMP)
+Using 16bit Automatic Mixed Precision (AMP)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+Using 16bit Automatic Mixed Precision (AMP)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+Using 16bit Automatic Mixed Precision (AMP)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+Using 16bit Automatic Mixed Precision (AMP)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+Using 16bit Automatic Mixed Precision (AMP)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+Using 16bit Automatic Mixed Precision (AMP)
+Using 16bit Automatic Mixed Precision (AMP)
+Using 16bit Automatic Mixed Precision (AMP)
+Using 16bit Automatic Mixed Precision (AMP)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+Using 16bit Automatic Mixed Precision (AMP)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+Using 16bit Automatic Mixed Precision (AMP)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+Using 16bit Automatic Mixed Precision (AMP)
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/lightning_fabric/connector.py:563: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+Using 16bit Automatic Mixed Precision (AMP)
+GPU available: True (cuda), used: True
+[rank: 8] Seed set to 42
+[rank: 4] Seed set to 42
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+[rank: 12] Seed set to 42
+[rank: 0] Seed set to 42
+Initializing distributed: GLOBAL_RANK: 8, MEMBER: 9/16
+Initializing distributed: GLOBAL_RANK: 4, MEMBER: 5/16
+Initializing distributed: GLOBAL_RANK: 12, MEMBER: 13/16
+Initializing distributed: GLOBAL_RANK: 0, MEMBER: 1/16
+[rank: 2] Seed set to 42
+[rank: 3] Seed set to 42
+[rank: 10] Seed set to 42
+[rank: 11] Seed set to 42
+[rank: 9] Seed set to 42
+[rank: 1] Seed set to 42
+Initializing distributed: GLOBAL_RANK: 2, MEMBER: 3/16
+Initializing distributed: GLOBAL_RANK: 3, MEMBER: 4/16
+Initializing distributed: GLOBAL_RANK: 1, MEMBER: 2/16
+Initializing distributed: GLOBAL_RANK: 11, MEMBER: 12/16
+Initializing distributed: GLOBAL_RANK: 9, MEMBER: 10/16
+Initializing distributed: GLOBAL_RANK: 10, MEMBER: 11/16
+[rank: 5] Seed set to 42
+[rank: 13] Seed set to 42
+[rank: 15] Seed set to 42
+[rank: 14] Seed set to 42
+[rank: 6] Seed set to 42
+[rank: 7] Seed set to 42
+Initializing distributed: GLOBAL_RANK: 5, MEMBER: 6/16
+Initializing distributed: GLOBAL_RANK: 6, MEMBER: 7/16
+Initializing distributed: GLOBAL_RANK: 7, MEMBER: 8/16
+Initializing distributed: GLOBAL_RANK: 13, MEMBER: 14/16
+Initializing distributed: GLOBAL_RANK: 14, MEMBER: 15/16
+Initializing distributed: GLOBAL_RANK: 15, MEMBER: 16/16
+----------------------------------------------------------------------------------------------------
+distributed_backend=nccl
+All distributed processes registered. Starting with 16 processes
+----------------------------------------------------------------------------------------------------
+
+2024-06-11 14:35:29.804646: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 2 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 1 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 1 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 2 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 3 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 3 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 2 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 1 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 2 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 3 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 3 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+LOCAL_RANK: 1 - CUDA_VISIBLE_DEVICES: [0,1,2,3]
+
+  | Name  | Type        | Params
+--------------------------------------
+0 | model | pfam_PEN_CL | 762 M 
+--------------------------------------
+28.3 M    Trainable params
+733 M     Non-trainable params
+762 M     Total params
+3,048.538 Total estimated model params size (MB)
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+We strongly recommend passing in an `attention_mask` since your input_ids may be padded. See https://huggingface.co/docs/transformers/troubleshooting#incorrect-output-when-padding-tokens-arent-masked.
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/pytorch_lightning/utilities/data.py:77: Trying to infer the `batch_size` from an ambiguous collection. The batch size we found is 20. To avoid any miscalculations, use `self.log(..., batch_size=batch_size)`.
+/home/hughy/miniconda3/envs/TextDiffEDP/lib/python3.9/site-packages/pytorch_lightning/loops/fit_loop.py:298: The number of training batches (5) is smaller than the logging interval Trainer(log_every_n_steps=50). Set a lower value for log_every_n_steps if you want to see logs for the training epoch.
+`Trainer.fit` stopped: `max_epochs=1` reached.
+FIT Profiler Report
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  Action                                                       	|  Mean duration (s)	|  Num calls      	|  Total time (s) 	|  Percentage %   	|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  Total                                                        	|  -              	|  304            	|  94.844         	|  100 %          	|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  run_training_epoch                                           	|  49.986         	|  1              	|  49.986         	|  52.704         	|
+|  [Strategy]DDPStrategy.validation_step                        	|  3.5761         	|  7              	|  25.032         	|  26.393         	|
+|  run_training_batch                                           	|  4.175          	|  5              	|  20.875         	|  22.01          	|
+|  [LightningModule]pfam_PL_PEN_CL.optimizer_step               	|  4.1744         	|  5              	|  20.872         	|  22.007         	|
+|  [Strategy]DDPStrategy.training_step                          	|  3.6593         	|  5              	|  18.296         	|  19.291         	|
+|  [_EvaluationLoop].val_next                                   	|  1.3358         	|  7              	|  9.3507         	|  9.8591         	|
+|  [_TrainingEpochLoop].train_dataloader_next                   	|  1.3553         	|  5              	|  6.7767         	|  7.1451         	|
+|  [LightningDataModule]HDF5_PFamDataModule.setup               	|  6.2292         	|  1              	|  6.2292         	|  6.5679         	|
+|  [Strategy]DDPStrategy.backward                               	|  0.19835        	|  5              	|  0.99176        	|  1.0457         	|
+|  [Callback]ModelSummary.on_fit_start                          	|  0.011784       	|  1              	|  0.011784       	|  0.012425       	|
+|  [Strategy]DDPStrategy.batch_to_device                        	|  0.00041606     	|  12             	|  0.0049928      	|  0.0052642      	|
+|  [LightningModule]pfam_PL_PEN_CL.transfer_batch_to_device     	|  0.00035681     	|  12             	|  0.0042817      	|  0.0045145      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_model_eval     	|  0.0015979      	|  2              	|  0.0031959      	|  0.0033696      	|
+|  [LightningModule]pfam_PL_PEN_CL.optimizer_zero_grad          	|  0.00061088     	|  5              	|  0.0030544      	|  0.0032205      	|
+|  [LightningModule]pfam_PL_PEN_CL.configure_optimizers         	|  0.0020362      	|  1              	|  0.0020362      	|  0.0021469      	|
+|  [LightningDataModule]HDF5_PFamDataModule.teardown            	|  0.0018894      	|  1              	|  0.0018894      	|  0.0019921      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_model_zero_grad	|  0.0017472      	|  1              	|  0.0017472      	|  0.0018422      	|
+|  [Callback]TQDMProgressBar.on_sanity_check_start              	|  0.00046082     	|  1              	|  0.00046082     	|  0.00048587     	|
+|  [Callback]TQDMProgressBar.on_validation_end                  	|  0.00022807     	|  2              	|  0.00045614     	|  0.00048094     	|
+|  [LightningDataModule]HDF5_PFamDataModule.val_dataloader      	|  0.00018596     	|  1              	|  0.00018596     	|  0.00019607     	|
+|  [LightningDataModule]HDF5_PFamDataModule.train_dataloader    	|  0.00016398     	|  1              	|  0.00016398     	|  0.00017289     	|
+|  [LightningModule]pfam_PL_PEN_CL.configure_gradient_clipping  	|  2.6389e-05     	|  5              	|  0.00013195     	|  0.00013912     	|
+|  [Callback]TQDMProgressBar.on_validation_start                	|  4.3988e-05     	|  2              	|  8.7975e-05     	|  9.2758e-05     	|
+|  [Callback]TQDMProgressBar.on_train_start                     	|  7.3347e-05     	|  1              	|  7.3347e-05     	|  7.7335e-05     	|
+|  [Callback]TQDMProgressBar.on_validation_batch_start          	|  9.4364e-06     	|  7              	|  6.6055e-05     	|  6.9646e-05     	|
+|  [Callback]TQDMProgressBar.on_validation_batch_end            	|  6.0414e-06     	|  7              	|  4.2289e-05     	|  4.4589e-05     	|
+|  [Callback]TQDMProgressBar.on_train_batch_end                 	|  7.6305e-06     	|  5              	|  3.8153e-05     	|  4.0227e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_batch_transfer     	|  2.0424e-06     	|  12             	|  2.4508e-05     	|  2.5841e-05     	|
+|  [Callback]TQDMProgressBar.setup                              	|  2.0819e-05     	|  1              	|  2.0819e-05     	|  2.1951e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_batch_start         	|  4.1218e-06     	|  5              	|  2.0609e-05     	|  2.173e-05      	|
+|  [Callback]TQDMProgressBar.on_after_backward                  	|  3.3438e-06     	|  5              	|  1.6719e-05     	|  1.7628e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_batch_end           	|  3.2223e-06     	|  5              	|  1.6111e-05     	|  1.6987e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_after_batch_transfer      	|  1.1721e-06     	|  12             	|  1.4065e-05     	|  1.483e-05      	|
+|  [Callback]TQDMProgressBar.on_before_optimizer_step           	|  2.7753e-06     	|  5              	|  1.3877e-05     	|  1.4631e-05     	|
+|  [Callback]TQDMProgressBar.on_before_zero_grad                	|  2.667e-06      	|  5              	|  1.3335e-05     	|  1.406e-05      	|
+|  [Callback]TQDMProgressBar.on_before_backward                 	|  2.4825e-06     	|  5              	|  1.2413e-05     	|  1.3087e-05     	|
+|  [Callback]ModelSummary.on_validation_batch_end               	|  1.6532e-06     	|  7              	|  1.1573e-05     	|  1.2202e-05     	|
+|  [Callback]ModelSummary.on_validation_batch_start             	|  1.4812e-06     	|  7              	|  1.0368e-05     	|  1.0932e-05     	|
+|  [Callback]TQDMProgressBar.on_train_batch_start               	|  2.0598e-06     	|  5              	|  1.0299e-05     	|  1.0859e-05     	|
+|  [Callback]TQDMProgressBar.on_train_epoch_start               	|  1.0079e-05     	|  1              	|  1.0079e-05     	|  1.0627e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_batch_end      	|  1.3353e-06     	|  7              	|  9.3472e-06     	|  9.8554e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_batch_start    	|  1.0781e-06     	|  7              	|  7.547e-06      	|  7.9573e-06     	|
+|  [Callback]ModelSummary.on_train_batch_end                    	|  1.4871e-06     	|  5              	|  7.4357e-06     	|  7.8399e-06     	|
+|  [Callback]ModelSummary.on_before_zero_grad                   	|  1.4187e-06     	|  5              	|  7.0934e-06     	|  7.4791e-06     	|
+|  [Callback]ModelSummary.on_before_optimizer_step              	|  1.3604e-06     	|  5              	|  6.8019e-06     	|  7.1717e-06     	|
+|  [Callback]ModelSummary.on_after_backward                     	|  1.3427e-06     	|  5              	|  6.7134e-06     	|  7.0784e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_zero_grad          	|  1.2504e-06     	|  5              	|  6.252e-06      	|  6.5919e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_backward           	|  1.2379e-06     	|  5              	|  6.1896e-06     	|  6.5261e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_after_backward            	|  1.2103e-06     	|  5              	|  6.0513e-06     	|  6.3802e-06     	|
+|  [Callback]ModelSummary.on_before_backward                    	|  1.2002e-06     	|  5              	|  6.001e-06      	|  6.3272e-06     	|
+|  [Callback]ModelSummary.on_train_batch_start                  	|  1.0962e-06     	|  5              	|  5.4808e-06     	|  5.7788e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_optimizer_step     	|  1.0393e-06     	|  5              	|  5.1963e-06     	|  5.4788e-06     	|
+|  [Callback]TQDMProgressBar.on_validation_epoch_end            	|  2.5649e-06     	|  2              	|  5.1297e-06     	|  5.4086e-06     	|
+|  [Strategy]DDPStrategy.on_train_batch_start                   	|  1.0137e-06     	|  5              	|  5.0683e-06     	|  5.3438e-06     	|
+|  [Callback]ModelSummary.on_validation_end                     	|  2.2191e-06     	|  2              	|  4.4382e-06     	|  4.6795e-06     	|
+|  [Callback]TQDMProgressBar.on_sanity_check_end                	|  4.428e-06      	|  1              	|  4.428e-06      	|  4.6687e-06     	|
+|  [Callback]TQDMProgressBar.on_train_end                       	|  4.0471e-06     	|  1              	|  4.0471e-06     	|  4.2671e-06     	|
+|  [Callback]TQDMProgressBar.on_fit_start                       	|  3.9884e-06     	|  1              	|  3.9884e-06     	|  4.2052e-06     	|
+|  [Callback]TQDMProgressBar.on_fit_end                         	|  3.8776e-06     	|  1              	|  3.8776e-06     	|  4.0884e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_epoch_start         	|  3.8468e-06     	|  1              	|  3.8468e-06     	|  4.056e-06      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_fit_start                 	|  3.8273e-06     	|  1              	|  3.8273e-06     	|  4.0353e-06     	|
+|  [Strategy]DDPStrategy.on_validation_start                    	|  1.8484e-06     	|  2              	|  3.6969e-06     	|  3.8979e-06     	|
+|  [LightningDataModule]HDF5_PFamDataModule.prepare_data        	|  3.6368e-06     	|  1              	|  3.6368e-06     	|  3.8345e-06     	|
+|  [Callback]ModelSummary.on_validation_start                   	|  1.7986e-06     	|  2              	|  3.5972e-06     	|  3.7928e-06     	|
+|  [Callback]TQDMProgressBar.on_train_epoch_end                 	|  3.356e-06      	|  1              	|  3.356e-06      	|  3.5385e-06     	|
+|  [Callback]TQDMProgressBar.on_validation_epoch_start          	|  1.6678e-06     	|  2              	|  3.3355e-06  FIT Profiler Report
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  Action                                                       	|  Mean duration (s)	|  Num calls      	|  Total time (s) 	|  Percentage %   	|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  Total                                                        	|  -              	|  304            	|  94.851         	|  100 %          	|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  run_training_epoch                                           	|  49.986         	|  1              	|  49.986         	|  52.7           	|
+|  [Strategy]DDPStrategy.validation_step                        	|  3.6976         	|  7              	|  25.883         	|  27.288         	|
+|  run_training_batch                                           	|  4.0321         	|  5              	|  20.161         	|  21.255         	|
+|  [LightningModule]pfam_PL_PEN_CL.optimizer_step               	|  4.0316         	|  5              	|  20.158         	|  21.252         	|
+|  [Strategy]DDPStrategy.training_step                          	|  3.5155         	|  5              	|  17.578         	|  18.532         	|
+|  [_EvaluationLoop].val_next                                   	|  1.2151         	|  7              	|  8.506          	|  8.9677         	|
+|  [_TrainingEpochLoop].train_dataloader_next                   	|  1.4983         	|  5              	|  7.4915         	|  7.8982         	|
+|  [LightningDataModule]HDF5_PFamDataModule.setup               	|  6.2432         	|  1              	|  6.2432         	|  6.5821         	|
+|  [Strategy]DDPStrategy.backward                               	|  0.19208         	|  3.5169e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.configure_callbacks          	|  3.166e-06      	|  1              	|  3.166e-06      	|  3.3382e-06     	|
+|  [Callback]ModelSummary.on_sanity_check_start                 	|  3.0459e-06     	|  1              	|  3.0459e-06     	|  3.2115e-06     	|
+|  [Callback]TQDMProgressBar.teardown                           	|  2.855e-06      	|  1              	|  2.855e-06      	|  3.0102e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_end            	|  1.2573e-06     	|  2              	|  2.5146e-06     	|  2.6513e-06     	|
+|  [Callback]ModelSummary.on_train_start                        	|  2.2938e-06     	|  1              	|  2.2938e-06     	|  2.4186e-06     	|
+|  [Callback]ModelSummary.on_validation_epoch_end               	|  1.1225e-06     	|  2              	|  2.245e-06      	|  2.367e-06      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_epoch_end      	|  1.1071e-06     	|  2              	|  2.2142e-06     	|  2.3346e-06     	|
+|  [Callback]ModelSummary.on_validation_epoch_start             	|  9.9721e-07     	|  2              	|  1.9944e-06     	|  2.1029e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_start          	|  9.9139e-07     	|  2              	|  1.9828e-06     	|  2.0906e-06     	|
+|  [Callback]ModelSummary.setup                                 	|  1.9441e-06     	|  1              	|  1.9441e-06     	|  2.0498e-06     	|
+|  [Strategy]DDPStrategy.on_validation_end                      	|  9.2643e-07     	|  2              	|  1.8529e-06     	|  1.9536e-06     	|
+|  [Callback]ModelSummary.on_train_end                          	|  1.7141e-06     	|  1              	|  1.7141e-06     	|  1.8073e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.teardown                     	|  1.6731e-06     	|  1              	|  1.6731e-06     	|  1.7641e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.setup                        	|  1.6629e-06     	|  1              	|  1.6629e-06     	|  1.7533e-06     	|
+|  [Callback]ModelSummary.on_sanity_check_end                   	|  1.593e-06      	|  1              	|  1.593e-06      	|  1.6796e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_epoch_start    	|  7.9093e-07     	|  2              	|  1.5819e-06     	|  1.6678e-06     	|
+|  [Strategy]DDPStrategy.on_train_end                           	|  1.4929e-06     	|  1              	|  1.4929e-06     	|  1.5741e-06     	|
+|  [Callback]ModelSummary.on_train_epoch_start                  	|  1.3923e-06     	|  1              	|  1.3923e-06     	|  1.468e-06      	|
+|  [Callback]ModelSummary.on_fit_end                            	|  1.322e-06      	|  1              	|  1.322e-06      	|  1.3939e-06     	|
+|  [Callback]ModelSummary.teardown                              	|  1.3132e-06     	|  1              	|  1.3132e-06     	|  1.3846e-06     	|
+|  [Strategy]DDPStrategy.on_train_start                         	|  1.2019e-06     	|  1              	|  1.2019e-06     	|  1.2672e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_fit_end                   	|  1.1921e-06     	|  1              	|  1.1921e-06     	|  1.2569e-06     	|
+|  [Callback]ModelSummary.on_train_epoch_end                    	|  1.1823e-06     	|  1              	|  1.1823e-06     	|  1.2466e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_start               	|  1.0519e-06     	|  1              	|  1.0519e-06     	|  1.1091e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_epoch_end           	|  9.9186e-07     	|  1              	|  9.9186e-07     	|  1.0458e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_end                 	|  9.5181e-07     	|  1              	|  9.5181e-07     	|  1.0036e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.prepare_data                 	|  9.4203e-07     	|  1              	|  9.4203e-07     	|  9.9325e-07     	|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  	|  5              	|  0.9604         	|  1.0125         	|
+|  [Callback]ModelSummary.on_fit_start                          	|  0.011604       	|  1              	|  0.011604       	|  0.012233       	|
+|  [Strategy]DDPStrategy.batch_to_device                        	|  0.00042212     	|  12             	|  0.0050654      	|  0.0053403      	|
+|  [LightningModule]pfam_PL_PEN_CL.transfer_batch_to_device     	|  0.00036622     	|  12             	|  0.0043947      	|  0.0046332      	|
+|  [LightningModule]pfam_PL_PEN_CL.optimizer_zero_grad          	|  0.00061041     	|  5              	|  0.003052       	|  0.0032177      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_model_eval     	|  0.0013939      	|  2              	|  0.0027878      	|  0.0029391      	|
+|  [LightningModule]pfam_PL_PEN_CL.configure_optimizers         	|  0.0022736      	|  1              	|  0.0022736      	|  0.002397       	|
+|  [LightningDataModule]HDF5_PFamDataModule.teardown            	|  0.0020584      	|  1              	|  0.0020584      	|  0.0021702      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_model_zero_grad	|  0.0017345      	|  1              	|  0.0017345      	|  0.0018287      	|
+|  [Callback]TQDMProgressBar.on_sanity_check_start              	|  0.00047522     	|  1              	|  0.00047522     	|  0.00050102     	|
+|  [Callback]TQDMProgressBar.on_validation_end                  	|  0.0002286      	|  2              	|  0.0004572      	|  0.00048202     	|
+|  [LightningDataModule]HDF5_PFamDataModule.val_dataloader      	|  0.0001865      	|  1              	|  0.0001865      	|  0.00019662     	|
+|  [LightningDataModule]HDF5_PFamDataModule.train_dataloader    	|  0.00016783     	|  1              	|  0.00016783     	|  0.00017694     	|
+|  [LightningModule]pfam_PL_PEN_CL.configure_gradient_clipping  	|  2.6231e-05     	|  5              	|  0.00013116     	|  0.00013828     	|
+|  [Callback]TQDMProgressBar.on_validation_start                	|  4.1333e-05     	|  2              	|  8.2666e-05     	|  8.7153e-05     	|
+|  [Callback]TQDMProgressBar.on_train_start                     	|  7.1715e-05     	|  1              	|  7.1715e-05     	|  7.5608e-05     	|
+|  [Callback]TQDMProgressBar.on_validation_batch_start          	|  9.9931e-06     	|  7              	|  6.9952e-05     	|  7.3749e-05     	|
+|  [Callback]TQDMProgressBar.on_validation_batch_end            	|  6.8142e-06     	|  7              	|  4.7699e-05     	|  5.0288e-05     	|
+|  [Callback]TQDMProgressBar.on_train_batch_end                 	|  8.8446e-06     	|  5              	|  4.4223e-05     	|  4.6623e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_batch_transfer     	|  2.1141e-06     	|  12             	|  2.5369e-05     	|  2.6746e-05     	|
+|  [Callback]TQDMProgressBar.setup                              	|  2.3173e-05     	|  1              	|  2.3173e-05     	|  2.4431e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_batch_start         	|  4.0656e-06     	|  5              	|  2.0328e-05     	|  2.1431e-05     	|
+|  [Callback]TQDMProgressBar.on_after_backward                  	|  3.8653e-06     	|  5              	|  1.9326e-05     	|  2.0375e-05     	|
+|  [Callback]TQDMProgressBar.on_before_optimizer_step           	|  3.1238e-06     	|  5              	|  1.5619e-05     	|  1.6467e-05     	|
+|  [Callback]TQDMProgressBar.on_before_zero_grad                	|  2.9353e-06     	|  5              	|  1.4677e-05     	|  1.5473e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_after_batch_transfer      	|  1.1706e-06     	|  12             	|  1.4047e-05     	|  1.481e-05      	|
+|  [Callback]TQDMProgressBar.on_before_backward                 	|  2.7632e-06     	|  5              	|  1.3816e-05     	|  1.4566e-05     	|
+|  [Callback]ModelSummary.on_validation_batch_end               	|  1.845e-06      	|  7              	|  1.2915e-05     	|  1.3616e-05     	|
+|  [Callback]ModelSummary.on_validation_batch_start             	|  1.7918e-06     	|  7              	|  1.2543e-05     	|  1.3223e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_batch_end           	|  2.3947e-06     	|  5              	|  1.1974e-05     	|  1.2623e-05     	|
+|  [Callback]TQDMProgressBar.on_train_epoch_start               	|  1.092e-05      	|  1              	|  1.092e-05      	|  1.1513e-05     	|
+|  [Callback]TQDMProgressBar.on_train_batch_start               	|  2.1503e-06     	|  5              	|  1.0752e-05     	|  1.1335e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_batch_end      	|  1.2538e-06     	|  7              	|  8.7763e-06     	|  9.2527e-06     	|
+|  [Callback]ModelSummary.on_train_batch_end                    	|  1.6349e-06     	|  5              	|  8.1747e-06     	|  8.6184e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_batch_start    	|  1.1235e-06     	|  7              	|  7.8646e-06     	|  8.2915e-06     	|
+|  [Callback]ModelSummary.on_after_backward                     	|  1.5129e-06     	|  5              	|  7.5647e-06     	|  7.9753e-06     	|
+|  [Callback]ModelSummary.on_before_zero_grad                   	|  1.4225e-06     	|  5              	|  7.1125e-06     	|  7.4986e-06     	|
+|  [Callback]ModelSummary.on_before_optimizer_step              	|  1.4203e-06     	|  5              	|  7.1013e-06     	|  7.4868e-06     	|
+|  [Callback]ModelSummary.on_before_backward                    	|  1.3228e-06     	|  5              	|  6.6138e-06     	|  6.9728e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_after_backward            	|  1.2544e-06     	|  5              	|  6.272e-06      	|  6.6124e-06     	|
+|  [Callback]ModelSummary.on_train_batch_start                  	|  1.1984e-06     	|  5              	|  5.9921e-06     	|  6.3174e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_zero_grad          	|  1.1643e-06     	|  5              	|  5.8217e-06     	|  6.1377e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_optimizer_step     	|  1.048e-06      	|  5              	|  5.2401e-06     	|  5.5245e-06     	|
+|  [Callback]ModelSummary.on_validation_end                     	|  2.6003e-06     	|  2              	|  5.2005e-06     	|  5.4828e-06     	|
+|  [Callback]TQDMProgressBar.on_validation_epoch_end            	|  2.505e-06      	|  2              	|  5.01e-06       	|  5.282e-06      	|
+|  [Callback]TQDMProgressBar.on_sanity_check_end                	|  4.7889e-06     	|  1              	|  4.7889e-06     	|  5.0488e-06     	|
+|  [Callback]TQDMProgressBar.on_train_end                       	|  4.7293e-06     	|  1              	|  4.7293e-06     	|  4.986e-06      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_backward           	|  9.398e-07      	|  5              	|  4.699e-06      	|  4.9541e-06     	|
+|  [Strategy]DDPStrategy.on_train_batch_start                   	|  9.0767e-07     	|  5              	|  4.5383e-06     	|  4.7847e-06     	|
+|  [Callback]TQDMProgressBar.on_fit_end                         	|  4.157e-06      	|  1              	|  4.157e-06      	|  4.3826e-06     	|
+|  [Strategy]DDPStrategy.on_validation_start                    	|  2.0741e-06     	|  2              	|  4.1481e-06     	|  4.3733e-06     	|
+|  [Callback]TQDMProgressBar.on_fit_start                       	|  4.0871e-06     	|  1              	|  4.0871e-06     	|  4.309e-06      	|
+|  [LightningDataModule]HDF5_PFamDataModule.prepare_data        	|  4.0177e-06     	|  1              	|  4.0177e-06     	|  4.2358e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_fit_start                 	|  3.817e-06      	|  1              	|  3.817e-06      	|  4.0242e-06     	|
+|  [Callback]ModelSummary.on_validation_start                   	|  1.763e-06      	|  2              	|  3.526e-06      	|  3.7174e-06     	|
+|  [Callback]ModelSummary.on_sanity_check_start                 	|  3.126e-06      	|  1              	|  3.126e-06      	|  3.2957e-06     	|
+|  [Callback]TQDMProgressBar.on_validation_epoch_start          	|  1.5532e-06     	|  2              	|  3.1064e-06     	|  3.275e-06      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_epoch_start         	|  3.0962e-06     	|  1              	|  3.0962e-06     	|  3.2642e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.configure_callbacks          	|  3.0361e-06     	|  1              	|  3.0361e-06     	|  3.2009e-06     	|
+|  [Callback]TQDMProgressBar.teardown                           	|  3.0259e-06     	|  1              	|  3.0259e-06     	|  3.1901e-06     	|
+|  [Callback]TQDMProgressBar.on_train_epoch_end                 	|  2.936e-06      	|  1              	|  2.936e-06      	|  3.0954e-06     	|
+|  [Callback]ModelSummary.on_validation_epoch_end               	|  1.1926e-06     	|  2              	|  2.3851e-06     	|  2.5146e-06     	|
+|  [Callback]ModelSummary.setup                                 	|  2.3041e-06     	|  1              	|  2.3041e-06     	|  2.4292e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_end            	|  1.112e-06      	|  2              	|  2.224e-06      	|  2.3447e-06     	|
+|  [Callback]ModelSummary.on_train_start                        	|  2.0741e-06     	|  1              	|  2.0741e-06     	|  2.1866e-06     	|
+|  [Callback]ModelSummary.on_validation_epoch_start             	|  1.0314e-06     	|  2              	|  2.0629e-06     	|  2.1749e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_epoch_end      	|  1.0068e-06     	|  2              	|  2.0135e-06     	|  2.1228e-06     	|
+|  [Strategy]DDPStrategy.on_validation_end                      	|  1.0014e-06     	|  2              	|  2.0028e-06     	|  2.1115e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_start          	|  9.716e-07      	|  2              	|  1.9432e-06     	|  2.0487e-06     	|
+|  [Callback]ModelSummary.on_train_end                          	|  1.7928e-06     	|  1              	|  1.7928e-06     	|  1.8901e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.setup                        	|  1.6834e-06     	|  1              	|  1.6834e-06     	|  1.7747e-06     	|
+|  [Callback]ModelSummary.on_sanity_check_end                   	|  1.6834e-06     	|  1              	|  1.6834e-06     	|  1.7747e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_epoch_start    	|  8.319e-07      	|  2              	|  1.6638e-06     	|  1.7541e-06     	|
+|  [Callback]ModelSummary.on_train_epoch_start                  	|  1.573e-06      	|  1              	|  1.573e-06      	|  1.6584e-06     	|
+|  [Callback]ModelSummary.teardown                              	|  1.4622e-06     	|  1              	|  1.4622e-06     	|  1.5415e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.teardown                     	|  1.4431e-06     	|  1              	|  1.4431e-06     	|  1.5214e-06     	|
+|  [Callback]ModelSummary.on_fit_end                            	|  1.3029e-06     	|  1              	|  1.3029e-06     	|  1.3736e-06     	|
+|  [Callback]ModelSummary.on_train_epoch_end                    	|  1.2922e-06     	|  1              	|  1.2922e-06     	|  1.3624e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_fit_end                   	|  1.2228e-06     	|  1              	|  1.2228e-06     	|  1.2892e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_start               	|  1.152e-06      	|  1              	|  1.152e-06      	|  1.2146e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_end                 	|  1.0817e-06     	|  1              	|  1.0817e-06     	|  1.1404e-06     	|
+|  [Strategy]DDPStrategy.on_train_start                         	|  1.0119e-06     	|  1              	|  1.0119e-06     	|  1.0668e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.prepare_data                 	|  9.411e-07      	|  1              	|  9.411e-07      	|  9.9219e-07     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_epoch_end           	|  9.0199e-07     	|  1              	|  9.0199e-07     	|  9.5095e-07     	|
+|  [Strategy]DDPStrategy.on_train_end                           	|  7.5111e-07     	|  1              	|  7.5111e-07     	|  7.9188e-07     	|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FIT Profiler Report
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  Action                                                       	|  Mean duration (s)	|  Num calls      	|  Total time (s) 	|  Percentage %   	|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  Total                                                        	|  -              	|  304            	|  94.867         	|  100 %          	|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  run_training_epoch                                           	|  49.986         	|  1              	|  49.986         	|  52.691         	|
+|  [Strategy]DDPStrategy.validation_step                        	|  3.5972         	|  7              	|  25.18          	|  26.543         	|
+|  run_training_batch                                           	|  4.2457         	|  5              	|  21.229         	|  22.377         	|
+|  [LightningModule]pfam_PL_PEN_CL.optimizer_step               	|  4.2449         	|  5              	|  21.225         	|  22.373         	|
+|  [Strategy]DDPStrategy.training_step                          	|  3.7255         	|  5              	|  18.627         	|  19.635         	|
+|  [_EvaluationLoop].val_next                                   	|  1.3138         	|  7              	|  9.1963         	|  9.6939         	|
+|  [_TrainingEpochLoop].train_dataloader_next                   	|  1.2872         	|  5              	|  6.4361         	|  6.7843         	|
+|  [LightningDataModule]HDF5_PFamDataModule.setup               	|  6.229          	|  1              	|  6.229          	|  6.5661         	|
+|  [Strategy]DDPStrategy.backward                               	|  0.16303        	|  5              	|  0.81513        	|  0.85923        	|
+|  [Callback]ModelSummary.on_fit_start                          	|  0.012689       	|  1              	|  0.012689       	|  0.013375       	|
+|  [Strategy]DDPStrategy.batch_to_device                        	|  0.00044216     	|  12             	|  0.005306       	|  0.0055931      	|
+|  [LightningModule]pfam_PL_PEN_CL.transfer_batch_to_device     	|  0.00037776     	|  12             	|  0.0045331      	|  0.0047784      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_model_eval     	|  0.0015505      	|  2              	|  0.0031011      	|  0.0032689      	|
+|  [LightningModule]pfam_PL_PEN_CL.optimizer_zero_grad          	|  0.00055832     	|  5              	|  0.0027916      	|  0.0029427      	|
+|  [LightningModule]pfam_PL_PEN_CL.configure_optimizers         	|  0.0022315      	|  1              	|  0.0022315      	|  0.0023522      	|
+|  [LightningDataModule]HDF5_PFamDataModule.teardown            	|  0.0020311      	|  1              	|  0.0020311      	|  0.002141       	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_model_zero_grad	|  0.001739       	|  1              	|  0.001739       	|  0.0018331      	|
+|  [Callback]TQDMProgressBar.on_validation_end                  	|  0.00023153     	|  2              	|  0.00046306     	|  0.00048811     	|
+|  [Callback]TQDMProgressBar.on_sanity_check_start              	|  0.00045131     	|  1              	|  0.00045131     	|  0.00047573     	|
+|  [LightningDataModule]HDF5_PFamDataModule.val_dataloader      	|  0.00018535     	|  1              	|  0.00018535     	|  0.00019538     	|
+|  [LightningDataModule]HDF5_PFamDataModule.train_dataloader    	|  0.00017071     	|  1              	|  0.00017071     	|  0.00017995     	|
+|  [LightningModule]pfam_PL_PEN_CL.configure_gradient_clipping  	|  2.6369e-05     	|  5              	|  0.00013185     	|  0.00013898     	|
+|  [Callback]TQDMProgressBar.on_validation_start                	|  4.4629e-05     	|  2              	|  8.9258e-05     	|  9.4088e-05     	|
+|  [Callback]TQDMProgressBar.on_train_start                     	|  7.3037e-05     	|  1              	|  7.3037e-05     	|  7.6989e-05     	|
+|  [Callback]TQDMProgressBar.on_validation_batch_start          	|  9.7442e-06     	|  7              	|  6.821e-05      	|  7.19e-05       	|
+|  [Callback]TQDMProgressBar.on_validation_batch_end            	|  6.0083e-06     	|  7              	|  4.2058e-05     	|  4.4334e-05     	|
+|  [Callback]TQDMProgressBar.on_train_batch_end                 	|  8.1114e-06     	|  5              	|  4.0557e-05     	|  4.2751e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_batch_transfer     	|  1.9999e-06     	|  12             	|  2.3998e-05     	|  2.5297e-05     	|
+|  [Callback]TQDMProgressBar.setup                              	|  2.1841e-05     	|  1              	|  2.1841e-05     	|  2.3023e-05     	|
+|  [Callback]TQDMProgressBar.on_after_backward                  	|  3.7208e-06     	|  5              	|  1.8604e-05     	|  1.9611e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_batch_start         	|  3.6732e-06     	|  5              	|  1.8366e-05     	|  1.936e-05      	|
+|  [Callback]TQDMProgressBar.on_before_optimizer_step           	|  3.1402e-06     	|  5              	|  1.5701e-05     	|  1.6551e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_after_batch_transfer      	|  1.3025e-06     	|  12             	|  1.563e-05      	|  1.6476e-05     	|
+|  [Callback]TQDMProgressBar.on_before_zero_grad                	|  3.0874e-06     	|  5              	|  1.5437e-05     	|  1.6272e-05     	|
+|  [Callback]TQDMProgressBar.on_before_backward                 	|  2.7192e-06     	|  5              	|  1.3596e-05     	|  1.4332e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_batch_end           	|  2.4787e-06     	|  5              	|  1.2394e-05     	|  1.3064e-05     	|
+|  [Callback]ModelSummary.on_validation_batch_start             	|  1.6906e-06     	|  7              	|  1.1834e-05     	|  1.2474e-05     	|
+|  [Callback]ModelSummary.on_validation_batch_end               	|  1.6418e-06     	|  7              	|  1.1493e-05     	|  1.2114e-05     	|
+|  [Callback]TQDMProgressBar.on_train_batch_start               	|  2.2482e-06     	|  5              	|  1.1241e-05     	|  1.1849e-05     	|
+|  [Callback]TQDMProgressBar.on_train_epoch_start               	|  1.064e-05      	|  1              	|  1.064e-05      	|  1.1216e-05     	|
+|  [Callback]TQDMProgressBar.on_fit_start                       	|  8.6958e-06     	|  1              	|  8.6958e-06     	|  9.1663e-06     	|
+|  [Callback]ModelSummary.on_train_batch_end                    	|  1.7152e-06     	|  5              	|  8.5761e-06     	|  9.0401e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_batch_end      	|  1.1754e-06     	|  7              	|  8.2278e-06     	|  8.673e-06      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_batch_start    	|  1.1063e-06     	|  7              	|  7.7444e-06     	|  8.1635e-06     	|
+|  [Callback]ModelSummary.on_after_backward                     	|  1.4408e-06     	|  5              	|  7.2042e-06     	|  7.5941e-06     	|
+|  [Callback]ModelSummary.on_before_backward                    	|  1.3527e-06     	|  5              	|  6.7633e-06     	|  7.1292e-06     	|
+|  [Callback]ModelSummary.on_before_zero_grad                   	|  1.3343e-06     	|  5              	|  6.6715e-06     	|  7.0325e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_after_backward            	|  1.2783e-06     	|  5              	|  6.3917e-06     	|  6.7375e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_zero_grad          	|  1.266e-06      	|  5              	|  6.3302e-06     	|  6.6727e-06     	|
+|  [Callback]ModelSummary.on_before_optimizer_step              	|  1.262e-06      	|  5              	|  6.3102e-06     	|  6.6516e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_backward           	|  1.2003e-06     	|  5              	|  6.0014e-06     	|  6.3262e-06     	|
+|  [Callback]ModelSummary.on_train_batch_start                  	|  1.1622e-06     	|  5              	|  5.811e-06      	|  6.1254e-06     	|
+|  [Callback]TQDMProgressBar.on_sanity_check_end                	|  5.4203e-06     	|  1              	|  5.4203e-06     	|  5.7136e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_optimizer_step     	|  1.0838e-06     	|  5              	|  5.4189e-06     	|  5.7121e-06     	|
+|  [Strategy]DDPStrategy.on_train_batch_start                   	|  1.0581e-06     	|  5              	|  5.2904e-06     	|  5.5766e-06     	|
+|  [Callback]TQDMProgressBar.on_validation_epoch_end            	|  2.5744e-06     	|  2              	|  5.1488e-06     	|  5.4274e-06     	|
+|  [Callback]ModelSummary.on_validation_end                     	|  2.4145e-06     	|  2              	|  4.8289e-06     	|  5.0902e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_fit_start                 	|  4.719e-06      	|  1              	|  4.719e-06      	|  4.9744e-06     	|
+|  [Callback]TQDMProgressBar.on_train_end                       	|  4.6478e-06     	|  1              	|  4.6478e-06     	|  4.8993e-06     	|
+|  [Callback]TQDMProgressBar.on_fit_end                         	|  4.4079e-06     	|  1              	|  4.4079e-06     	|  4.6465e-06     	|
+|  [LightningDataModule]HDF5_PFamDataModule.prepare_data        	|  4.1281e-06     	|  1              	|  4.1281e-06     	|  4.3515e-06     	|
+|  [Callback]ModelSummary.on_validation_start                   	|  2.064e-06      	|  2              	|  4.1281e-06     	|  4.3515e-06     	|
+|  [Strategy]DDPStrategy.on_validation_start                    	|  1.9288e-06     	|  2              	|  3.8575e-06     	|  4.0663e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_epoch_start         	|  3.2461e-06     	|  1              	|  3.2461e-06     	|  3.4218e-06     	|
+|  [Callback]TQDMProgressBar.on_train_epoch_end                 	|  2.8959e-06     	|  1              	|  2.8959e-06     	|  3.0526e-06     	|
+|  [Callback]TQDMProgressBar.on_validation_epoch_start          	|  1.427e-06      	|  2              	|  2.854e-06      	|  3.0085e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.configure_callbacks          	|  2.8252e-06     	|  1              	|  2.8252e-06     	|  2.978e-06      	|
+|  [Callback]TQDMProgressBar.teardown                           	|  2.6152e-06     	|  1              	|  2.6152e-06     	|  2.7567e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_epoch_end      	|  1.2424e-06     	|  2              	|  2.4848e-06     	|  2.6192e-06     	|
+|  [Callback]ModelSummary.on_sanity_check_start                 	|  2.4843e-06     	|  1              	|  2.4843e-06     	|  2.6187e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_end            	|  1.2026e-06     	|  2              	|  2.4051e-06     	|  2.5353e-06     	|
+|  [Callback]ModelSummary.on_validation_epoch_end               	|  1.1071e-06     	|  2              	|  2.2142e-06     	|  2.334e-06      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_start          	|  1.0822e-06     	|  2              	|  2.1644e-06     	|  2.2815e-06     	|
+|  [Callback]ModelSummary.on_train_start                        	|  2.0238e-06     	|  1              	|  2.0238e-06     	|  2.1333e-06     	|
+|  [Callback]ModelSummary.on_validation_epoch_start             	|  9.7207e-07     	|  2              	|  1.9441e-06     	|  2.0493e-06     	|
+|  [Strategy]DDPStrategy.on_validation_end                      	|  9.6695e-07     	|  2              	|  1.9339e-06     	|  2.0385e-06     	|
+|  [Callback]ModelSummary.setup                                 	|  1.9032e-06     	|  1              	|  1.9032e-06     	|  2.0061e-06     	|
+|  [Callback]ModelSummary.on_train_end                          	|  1.763e-06      	|  1              	|  1.763e-06      	|  1.8584e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_epoch_start    	|  8.6124e-07     	|  2              	|  1.7225e-06     	|  1.8157e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.setup                        	|  1.5632e-06     	|  1              	|  1.5632e-06     	|  1.6478e-06     	|
+|  [Callback]ModelSummary.on_sanity_check_end                   	|  1.492e-06      	|  1              	|  1.492e-06      	|  1.5727e-06     	|
+|  [Callback]ModelSummary.on_train_epoch_start                  	|  1.4124e-06     	|  1              	|  1.4124e-06     	|  1.4888e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.teardown                     	|  1.3728e-06     	|  1              	|  1.3728e-06     	|  1.4471e-06     	|
+|  [Callback]ModelSummary.on_train_epoch_end                    	|  1.3523e-06     	|  1              	|  1.3523e-06     	|  1.4255e-06     	|
+|  [Strategy]DDPStrategy.on_train_start                         	|  1.302e-06      	|  1              	|  1.302e-06      	|  1.3724e-06     	|
+|  [Callback]ModelSummary.on_fit_end                            	|  1.2619e-06     	|  1              	|  1.2619e-06     	|  1.3302e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_fit_end                   	|  1.2019e-06     	|  1              	|  1.2019e-06     	|  1.2669e-06     	|
+|  [Callback]ModelSummary.teardown                              	|  1.2019e-06     	|  1              	|  1.2019e-06     	|  1.2669e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_start               	|  1.1618e-06     	|  1              	|  1.1618e-06     	|  1.2247e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_end                 	|  1.092e-06      	|  1              	|  1.092e-06      	|  1.1511e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.prepare_data                 	|  1.0519e-06     	|  1              	|  1.0519e-06     	|  1.1088e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_epoch_end           	|  1.0421e-06     	|  1              	|  1.0421e-06     	|  1.0985e-06     	|
+|  [Strategy]DDPStrategy.on_train_end                           	|  1.0123e-06     	|  1              	|  1.0123e-06     	|  1.0671e-06     	|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FIT Profiler Report
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  Action                                                       	|  Mean duration (s)	|  Num calls      	|  Total time (s) 	|  Percentage %   	|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  Total                                                        	|  -              	|  304            	|  94.895         	|  100 %          	|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  run_training_epoch                                           	|  49.987         	|  1              	|  49.987         	|  52.676         	|
+|  [Strategy]DDPStrategy.validation_step                        	|  3.737          	|  7              	|  26.159         	|  27.566         	|
+|  run_training_batch                                           	|  3.9581         	|  5              	|  19.79          	|  20.855         	|
+|  [LightningModule]pfam_PL_PEN_CL.optimizer_step               	|  3.9572         	|  5              	|  19.786         	|  20.85          	|
+|  [Strategy]DDPStrategy.training_step                          	|  3.444          	|  5              	|  17.22          	|  18.146         	|
+|  [_EvaluationLoop].val_next                                   	|  1.1754         	|  7              	|  8.2281         	|  8.6707         	|
+|  [_TrainingEpochLoop].train_dataloader_next                   	|  1.5719         	|  5              	|  7.8593         	|  8.2821         	|
+|  [LightningDataModule]HDF5_PFamDataModule.setup               	|  6.2928         	|  1              	|  6.2928         	|  6.6313         	|
+|  [Strategy]DDPStrategy.backward                               	|  0.19866        	|  5              	|  0.99328        	|  1.0467         	|
+|  [Callback]TQDMProgressBar.on_train_epoch_end                 	|  0.012483       	|  1              	|  0.012483       	|  0.013155       	|
+|  [Callback]ModelSummary.on_fit_start                          	|  0.011764       	|  1              	|  0.011764       	|  0.012396       	|
+|  [Strategy]DDPStrategy.batch_to_device                        	|  0.00047513     	|  12             	|  0.0057015      	|  0.0060082      	|
+|  [LightningModule]pfam_PL_PEN_CL.transfer_batch_to_device     	|  0.00041021     	|  12             	|  0.0049225      	|  0.0051873      	|
+|  [Callback]TQDMProgressBar.on_train_batch_end                 	|  0.00075847     	|  5              	|  0.0037924      	|  0.0039964      	|
+|  [LightningModule]pfam_PL_PEN_CL.optimizer_zero_grad          	|  0.00058256     	|  5              	|  0.0029128      	|  0.0030695      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_model_eval     	|  0.0014495      	|  2              	|  0.0028989      	|  0.0030549      	|
+|  [LightningDataModule]HDF5_PFamDataModule.teardown            	|  0.0027519      	|  1              	|  0.0027519      	|  0.0029         	|
+|  [Callback]TQDMProgressBar.on_sanity_check_start              	|  0.0025764      	|  1              	|  0.0025764      	|  0.002715       	|
+|  [LightningModule]pfam_PL_PEN_CL.configure_optimizers         	|  0.0019888      	|  1              	|  0.0019888      	|  0.0020957      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_model_zero_grad	|  0.0017569      	|  1              	|  0.0017569      	|  0.0018514      	|
+|  [Callback]TQDMProgressBar.on_validation_batch_end            	|  0.00018467     	|  7              	|  0.0012927      	|  0.0013622      	|
+|  [Callback]TQDMProgressBar.on_validation_end                  	|  0.00034136     	|  2              	|  0.00068272     	|  0.00071945     	|
+|  [Callback]TQDMProgressBar.on_validation_batch_start          	|  7.1496e-05     	|  7              	|  0.00050047     	|  0.00052739     	|
+|  [LightningDataModule]HDF5_PFamDataModule.val_dataloader      	|  0.00034167     	|  1              	|  0.00034167     	|  0.00036005     	|
+|  [Callback]TQDMProgressBar.on_train_end                       	|  0.00017523     	|  1              	|  0.00017523     	|  0.00018466     	|
+|  [Callback]TQDMProgressBar.on_validation_start                	|  8.738e-05      	|  2              	|  0.00017476     	|  0.00018416     	|
+|  [LightningDataModule]HDF5_PFamDataModule.train_dataloader    	|  0.00016275     	|  1              	|  0.00016275     	|  0.0001715      	|
+|  [Callback]TQDMProgressBar.on_train_start                     	|  0.00016009     	|  1              	|  0.00016009     	|  0.0001687      	|
+|  [LightningModule]pfam_PL_PEN_CL.configure_gradient_clipping  	|  2.4462e-05     	|  5              	|  0.00012231     	|  0.00012889     	|
+|  [Callback]TQDMProgressBar.on_train_epoch_start               	|  0.00012003     	|  1              	|  0.00012003     	|  0.00012648     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_batch_transfer     	|  2.0221e-06     	|  12             	|  2.4266e-05     	|  2.5571e-05     	|
+|  [Callback]TQDMProgressBar.setup                              	|  1.9968e-05     	|  1              	|  1.9968e-05     	|  2.1042e-05     	|
+|  [Callback]TQDMProgressBar.on_after_backward                  	|  3.9295e-06     	|  5              	|  1.9648e-05     	|  2.0705e-05     	|
+|  [Callback]ModelSummary.on_train_batch_end                    	|  3.8093e-06     	|  5              	|  1.9046e-05     	|  2.0071e-05     	|
+|  [Callback]ModelSummary.on_validation_batch_end               	|  2.7022e-06     	|  7              	|  1.8915e-05     	|  1.9933e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_batch_start         	|  3.5048e-06     	|  5              	|  1.7524e-05     	|  1.8466e-05     	|
+|  [Callback]TQDMProgressBar.on_train_batch_start               	|  3.3985e-06     	|  5              	|  1.6992e-05     	|  1.7906e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_batch_end           	|  3.1157e-06     	|  5              	|  1.5579e-05     	|  1.6417e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_after_batch_transfer      	|  1.2557e-06     	|  12             	|  1.5068e-05     	|  1.5878e-05     	|
+|  [Callback]TQDMProgressBar.on_before_optimizer_step           	|  2.7492e-06     	|  5              	|  1.3746e-05     	|  1.4485e-05     	|
+|  [Callback]ModelSummary.on_validation_batch_start             	|  1.8694e-06     	|  7              	|  1.3086e-05     	|  1.3789e-05     	|
+|  [Callback]TQDMProgressBar.on_before_zero_grad                	|  2.5888e-06     	|  5              	|  1.2944e-05     	|  1.364e-05      	|
+|  [Callback]TQDMProgressBar.on_before_backward                 	|  2.3903e-06     	|  5              	|  1.1952e-05     	|  1.2595e-05     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_batch_end      	|  1.3909e-06     	|  7              	|  9.7365e-06     	|  1.026e-05      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_after_backward            	|  1.7471e-06     	|  5              	|  8.7353e-06     	|  9.2052e-06     	|
+|  [Callback]ModelSummary.on_before_zero_grad                   	|  1.4489e-06     	|  5              	|  7.2443e-06     	|  7.634e-06      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_batch_start    	|  1.0193e-06     	|  7              	|  7.1349e-06     	|  7.5187e-06     	|
+|  [Callback]ModelSummary.on_after_backward                     	|  1.3705e-06     	|  5              	|  6.8527e-06     	|  7.2213e-06     	|
+|  [Callback]ModelSummary.on_before_optimizer_step              	|  1.3265e-06     	|  5              	|  6.6324e-06     	|  6.9892e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_zero_grad          	|  1.2762e-06     	|  5              	|  6.381e-06      	|  6.7242e-06     	|
+|  [Callback]ModelSummary.on_before_backward                    	|  1.2305e-06     	|  5              	|  6.1523e-06     	|  6.4833e-06     	|
+|  [LightningDataModule]HDF5_PFamDataModule.prepare_data        	|  5.831e-06      	|  1              	|  5.831e-06      	|  6.1447e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_optimizer_step     	|  1.1504e-06     	|  5              	|  5.7518e-06     	|  6.0613e-06     	|
+|  [Callback]ModelSummary.on_train_batch_start                  	|  1.1342e-06     	|  5              	|  5.6708e-06     	|  5.9759e-06     	|
+|  [Callback]ModelSummary.on_validation_end                     	|  2.6405e-06     	|  2              	|  5.2811e-06     	|  5.5651e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_fit_start                 	|  5.0492e-06     	|  1              	|  5.0492e-06     	|  5.3208e-06     	|
+|  [Strategy]DDPStrategy.on_train_batch_start                   	|  1.0079e-06     	|  5              	|  5.0394e-06     	|  5.3105e-06     	|
+|  [Callback]TQDMProgressBar.on_fit_start                       	|  4.699e-06      	|  1              	|  4.699e-06      	|  4.9518e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_before_backward           	|  9.2769e-07     	|  5              	|  4.6385e-06     	|  4.888e-06      	|
+|  [Callback]TQDMProgressBar.on_sanity_check_end                	|  4.4778e-06     	|  1              	|  4.4778e-06     	|  4.7187e-06     	|
+|  [Callback]TQDMProgressBar.on_validation_epoch_end            	|  2.1788e-06     	|  2              	|  4.3577e-06     	|  4.5921e-06     	|
+|  [Callback]ModelSummary.on_validation_start                   	|  1.9642e-06     	|  2              	|  3.9283e-06     	|  4.1396e-06     	|
+|  [Callback]TQDMProgressBar.on_fit_end                         	|  3.9269e-06     	|  1              	|  3.9269e-06     	|  4.1382e-06     	|
+|  [Callback]ModelSummary.on_sanity_check_start                 	|  3.4464e-06     	|  1              	|  3.4464e-06     	|  3.6317e-06     	|
+|  [Strategy]DDPStrategy.on_validation_start                    	|  1.7132e-06     	|  2              	|  3.4263e-06     	|  3.6106e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.configure_callbacks          	|  3.2461e-06     	|  1              	|  3.2461e-06     	|  3.4207e-06     	|
+|  [Callback]TQDMProgressBar.on_validation_epoch_start          	|  1.563e-06      	|  2              	|  3.126e-06      	|  3.2941e-06     	|
+|  [Callback]ModelSummary.on_train_epoch_end                    	|  2.705e-06      	|  1              	|  2.705e-06      	|  2.8505e-06     	|
+|  [Callback]ModelSummary.on_train_end                          	|  2.6049e-06     	|  1              	|  2.6049e-06     	|  2.745e-06      	|
+|  [Callback]TQDMProgressBar.teardown                           	|  2.5737e-06     	|  1              	|  2.5737e-06     	|  2.7122e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.prepare_data                 	|  2.3753e-06     	|  1              	|  2.3753e-06     	|  2.5031e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_end            	|  1.177e-06      	|  2              	|  2.3539e-06     	|  2.4805e-06     	|
+|  [Callback]ModelSummary.on_train_epoch_start                  	|  2.2752e-06     	|  1              	|  2.2752e-06     	|  2.3976e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_start          	|  1.1222e-06     	|  2              	|  2.2445e-06     	|  2.3652e-06     	|
+|  [Callback]ModelSummary.on_validation_epoch_end               	|  1.0969e-06     	|  2              	|  2.1937e-06     	|  2.3117e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_epoch_end      	|  1.082e-06      	|  2              	|  2.1639e-06     	|  2.2803e-06     	|
+|  [Callback]ModelSummary.on_train_start                        	|  2.1537e-06     	|  1              	|  2.1537e-06     	|  2.2695e-06     	|
+|  [Callback]ModelSummary.on_validation_epoch_start             	|  1.027e-06      	|  2              	|  2.054e-06      	|  2.1645e-06     	|
+|  [Strategy]DDPStrategy.on_validation_end                      	|  1.0168e-06     	|  2              	|  2.0335e-06     	|  2.1429e-06     	|
+|  [Callback]ModelSummary.setup                                 	|  2.0042e-06     	|  1              	|  2.0042e-06     	|  2.112e-06      	|
+|  [LightningModule]pfam_PL_PEN_CL.on_validation_epoch_start    	|  9.6159e-07     	|  2              	|  1.9232e-06     	|  2.0266e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.teardown                     	|  1.8231e-06     	|  1              	|  1.8231e-06     	|  1.9211e-06     	|
+|  [Callback]ModelSummary.on_sanity_check_end                   	|  1.6731e-06     	|  1              	|  1.6731e-06     	|  1.7631e-06     	|
+|  [Callback]ModelSummary.teardown                              	|  1.6531e-06     	|  1              	|  1.6531e-06     	|  1.742e-06      	|
+|  [LightningModule]pfam_PL_PEN_CL.setup                        	|  1.5618e-06     	|  1              	|  1.5618e-06     	|  1.6458e-06     	|
+|  [Callback]ModelSummary.on_fit_end                            	|  1.3122e-06     	|  1              	|  1.3122e-06     	|  1.3828e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_fit_end                   	|  1.193e-06      	|  1              	|  1.193e-06      	|  1.2572e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_epoch_end           	|  1.092e-06      	|  1              	|  1.092e-06      	|  1.1507e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_epoch_start         	|  1.072e-06      	|  1              	|  1.072e-06      	|  1.1296e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_start               	|  1.0417e-06     	|  1              	|  1.0417e-06     	|  1.0977e-06     	|
+|  [LightningModule]pfam_PL_PEN_CL.on_train_end                 	|  1.0021e-06     	|  1              	|  1.0021e-06     	|  1.056e-06      	|
+|  [Strategy]DDPStrategy.on_train_start                         	|  1.0016e-06     	|  1              	|  1.0016e-06     	|  1.0555e-06     	|
+|  [Strategy]DDPStrategy.on_train_end                           	|  9.9186e-07     	|  1              	|  9.9186e-07     	|  1.0452e-06     	|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Application 6b72b387 resources: utime=1176s stime=441s maxrss=9409124KB inblock=53603826 oublock=312 minflt=18070120 majflt=348198 nvcsw=2884949 nivcsw=210231
